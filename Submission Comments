@@ -1,0 +1,2 @@
+I have used "git push origin master --force" command and it updates my repository with new commit, deleting old code in repo.
+So the commit date will be on 27th feb, however I have already submitted code to my repo on 2/12.
